@@ -1,0 +1,19 @@
+# Archivos de compilación Java
+*.class
+
+# Logs
+*.log
+
+# Directorios comunes de compilación
+bin/
+out/
+target/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+RESUMEN
+Total de productos: 8
+1 - Manzanas
+2 - Leche
+3 - Pan
+4 - Huevos
+5 - Queso
+6 - Arroz
+7 - Pollo
+8 - Tomates
+Primer producto: ManzanasUltimo producto: Tomates
